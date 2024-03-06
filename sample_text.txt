@@ -1,0 +1,14 @@
+This is a sample text file. You can put any text content you want in it.
+It can be used for storing plain text information such as notes, messages, or data.
+
+Text files are commonly used for various purposes, including:
+
+- Writing code snippets
+- Saving configuration settings
+- Storing contact information
+- Keeping track of to-do lists
+- Writing documentation
+
+You can create and edit text files using a simple text editor like Notepad on Windows, TextEdit on macOS, or any other text editor of your choice.
+
+Feel free to modify this text file as needed for your own use!
